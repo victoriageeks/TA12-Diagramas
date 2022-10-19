@@ -1,5 +1,7 @@
 
-# Unidad 12 - Diagramas ER (Team 1)
+# Actividades SQL Team 1
+## TA12 - Model entidad-relación
+## TA13 - Modelo relacional
 
 ## Authors
 
